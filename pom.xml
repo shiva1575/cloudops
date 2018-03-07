@@ -24,4 +24,4 @@
     <url>http://192.168.31.119:8081/nexus/content/repositories/releases</url>
   </repository>
 </distributionManagement>
- <project>
+ </project>
